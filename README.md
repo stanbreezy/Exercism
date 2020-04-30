@@ -1,1 +1,1 @@
-# Exercism
+# Exercism Training files
